@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\bin\Debug\Öğrenci Etüt ve Ders Kayıt Sistemi.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\bin\Debug\Öğrenci Etüt ve Ders Kayıt Sistemi.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\bin\Debug\Öğrenci Etüt ve Ders Kayıt Sistemi.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\obj\Debug\Öğrenci Etüt ve Ders Kayıt Sistemi.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\obj\Debug\Öğrenci_Etüt_ve_Ders_Kayıt_Sistemi.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\obj\Debug\Öğrenci_Etüt_ve_Ders_Kayıt_Sistemi.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\obj\Debug\Öğrenci Etüt ve Ders Kayıt Sistemi.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\obj\Debug\Öğrenci Etüt ve Ders Kayıt Sistemi.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\obj\Debug\Öğrenci Etüt ve Ders Kayıt Sistemi.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi\obj\Debug\Öğrenci Etüt ve Ders Kayıt Sistemi.pdb

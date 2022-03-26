@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\bin\Debug\List Yapısı ve List İle Öğrenci Kayıt.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\bin\Debug\List Yapısı ve List İle Öğrenci Kayıt.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\bin\Debug\List Yapısı ve List İle Öğrenci Kayıt.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\obj\Debug\List Yapısı ve List İle Öğrenci Kayıt.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\obj\Debug\List_Yapısı_ve_List_İle_Öğrenci_Kayıt.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\obj\Debug\List_Yapısı_ve_List_İle_Öğrenci_Kayıt.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\obj\Debug\List Yapısı ve List İle Öğrenci Kayıt.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\obj\Debug\List Yapısı ve List İle Öğrenci Kayıt.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\obj\Debug\List Yapısı ve List İle Öğrenci Kayıt.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\List Yapısı ve List İle Öğrenci Kayıt\List Yapısı ve List İle Öğrenci Kayıt\obj\Debug\List Yapısı ve List İle Öğrenci Kayıt.pdb

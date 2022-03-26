@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\bin\Debug\Petrol Akaryakıt Stok Takip.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\bin\Debug\Petrol Akaryakıt Stok Takip.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\bin\Debug\Petrol Akaryakıt Stok Takip.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\obj\Debug\Petrol Akaryakıt Stok Takip.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\obj\Debug\Petrol_Akaryakıt_Stok_Takip.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\obj\Debug\Petrol_Akaryakıt_Stok_Takip.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\obj\Debug\Petrol Akaryakıt Stok Takip.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\obj\Debug\Petrol Akaryakıt Stok Takip.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\obj\Debug\Petrol Akaryakıt Stok Takip.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Petrol Akaryakıt Stok Takip\Petrol Akaryakıt Stok Takip\obj\Debug\Petrol Akaryakıt Stok Takip.pdb

@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\bin\Debug\PassaParola Uygulaması.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\bin\Debug\PassaParola Uygulaması.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\bin\Debug\PassaParola Uygulaması.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\obj\Debug\PassaParola Uygulaması.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\obj\Debug\PassaParola_Uygulaması.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\obj\Debug\PassaParola_Uygulaması.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\obj\Debug\PassaParola Uygulaması.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\obj\Debug\PassaParola Uygulaması.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\obj\Debug\PassaParola Uygulaması.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\PassaParola Uygulaması\PassaParola Uygulaması\obj\Debug\PassaParola Uygulaması.pdb

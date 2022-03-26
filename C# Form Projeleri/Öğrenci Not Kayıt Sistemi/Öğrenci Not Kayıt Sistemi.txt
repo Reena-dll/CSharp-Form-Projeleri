@@ -1,0 +1,5 @@
+Öğrenci Giriş*
+Öğretmen Giriş*
+Öğretmen Sayfa*
+Öğrenci Sayfası*
+

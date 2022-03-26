@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbNotKayitModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Tbl_Ders">
+    <Key>
+      <PropertyRef Name="OgrId" />
+    </Key>
+    <Property Name="OgrId" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OgrNumara" Type="String" MaxLength="4" FixedLength="true" Unicode="false" />
+    <Property Name="OgrAd" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="OgrSoyad" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="OgrS1" Type="Byte" />
+    <Property Name="OgrS2" Type="Byte" />
+    <Property Name="OgrS3" Type="Byte" />
+    <Property Name="Ortalama" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Durum" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="DbNotKayitEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tbl_Ders" EntityType="Self.Tbl_Ders" />
+  </EntityContainer>
+</Schema>

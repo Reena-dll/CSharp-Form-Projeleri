@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İstatistik ve Grafik Sistemi", "İstatistik ve Grafik Sistemi\İstatistik ve Grafik Sistemi.csproj", "{B8402D01-BD0E-4190-907D-D202D34AAA77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8402D01-BD0E-4190-907D-D202D34AAA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8402D01-BD0E-4190-907D-D202D34AAA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8402D01-BD0E-4190-907D-D202D34AAA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8402D01-BD0E-4190-907D-D202D34AAA77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3028127-19CC-472D-86C2-2CB4F95D9C8B}
+	EndGlobalSection
+EndGlobal

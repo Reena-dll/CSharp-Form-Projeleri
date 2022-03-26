@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\bin\Debug\Film Arsivim.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\bin\Debug\Film Arsivim.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\bin\Debug\Film Arsivim.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\obj\Debug\Film Arsivim.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\obj\Debug\Film_Arsivim.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\obj\Debug\Film_Arsivim.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\obj\Debug\Film Arsivim.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\obj\Debug\Film Arsivim.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\obj\Debug\Film Arsivim.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Film Arsivim\Film Arsivim\obj\Debug\Film Arsivim.pdb

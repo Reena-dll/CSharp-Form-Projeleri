@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbNotKayitModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DbNotKayit.dbo.Tbl_Ders' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Tbl_Ders">
+    <Key>
+      <PropertyRef Name="OgrId" />
+    </Key>
+    <Property Name="OgrId" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OgrNumara" Type="char" MaxLength="4" />
+    <Property Name="OgrAd" Type="varchar" MaxLength="20" />
+    <Property Name="OgrSoyad" Type="varchar" MaxLength="20" />
+    <Property Name="OgrS1" Type="tinyint" />
+    <Property Name="OgrS2" Type="tinyint" />
+    <Property Name="OgrS3" Type="tinyint" />
+    <Property Name="Ortalama" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Durum" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="DbNotKayitModelStoreContainer">
+    <EntitySet Name="Tbl_Ders" EntityType="Self.Tbl_Ders" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Tbl_Ders].[OgrId] AS [OgrId], 
+    [Tbl_Ders].[OgrNumara] AS [OgrNumara], 
+    [Tbl_Ders].[OgrAd] AS [OgrAd], 
+    [Tbl_Ders].[OgrSoyad] AS [OgrSoyad], 
+    [Tbl_Ders].[OgrS1] AS [OgrS1], 
+    [Tbl_Ders].[OgrS2] AS [OgrS2], 
+    [Tbl_Ders].[OgrS3] AS [OgrS3], 
+    [Tbl_Ders].[Ortalama] AS [Ortalama], 
+    [Tbl_Ders].[Durum] AS [Durum]
+    FROM [dbo].[Tbl_Ders] AS [Tbl_Ders]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

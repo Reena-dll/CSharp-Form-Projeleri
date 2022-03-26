@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\bin\Debug\Form Üzerinde Sql Sorguları.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\bin\Debug\Form Üzerinde Sql Sorguları.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\bin\Debug\Form Üzerinde Sql Sorguları.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\obj\Debug\Form Üzerinde Sql Sorguları.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\obj\Debug\Form_Üzerinde_Sql_Sorguları.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\obj\Debug\Form_Üzerinde_Sql_Sorguları.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\obj\Debug\Form Üzerinde Sql Sorguları.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\obj\Debug\Form Üzerinde Sql Sorguları.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\obj\Debug\Form Üzerinde Sql Sorguları.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Form Üzerinde Sql Sorguları\Form Üzerinde Sql Sorguları\obj\Debug\Form Üzerinde Sql Sorguları.pdb

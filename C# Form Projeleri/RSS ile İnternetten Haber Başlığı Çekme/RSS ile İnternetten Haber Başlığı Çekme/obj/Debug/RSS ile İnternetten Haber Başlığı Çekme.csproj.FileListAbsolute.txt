@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\bin\Debug\RSS ile İnternetten Haber Başlığı Çekme.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\bin\Debug\RSS ile İnternetten Haber Başlığı Çekme.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\bin\Debug\RSS ile İnternetten Haber Başlığı Çekme.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\obj\Debug\RSS ile İnternetten Haber Başlığı Çekme.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\obj\Debug\RSS_ile_İnternetten_Haber_Başlığı_Çekme.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\obj\Debug\RSS_ile_İnternetten_Haber_Başlığı_Çekme.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\obj\Debug\RSS ile İnternetten Haber Başlığı Çekme.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\obj\Debug\RSS ile İnternetten Haber Başlığı Çekme.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\obj\Debug\RSS ile İnternetten Haber Başlığı Çekme.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\RSS ile İnternetten Haber Başlığı Çekme\RSS ile İnternetten Haber Başlığı Çekme\obj\Debug\RSS ile İnternetten Haber Başlığı Çekme.pdb

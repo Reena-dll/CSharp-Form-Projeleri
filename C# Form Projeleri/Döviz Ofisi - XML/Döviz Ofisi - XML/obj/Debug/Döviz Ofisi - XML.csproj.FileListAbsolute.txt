@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\bin\Debug\Döviz Ofisi - XML.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\bin\Debug\Döviz Ofisi - XML.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\bin\Debug\Döviz Ofisi - XML.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\obj\Debug\Döviz Ofisi - XML.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\obj\Debug\Döviz_Ofisi___XML.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\obj\Debug\Döviz_Ofisi___XML.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\obj\Debug\Döviz Ofisi - XML.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\obj\Debug\Döviz Ofisi - XML.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\obj\Debug\Döviz Ofisi - XML.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Döviz Ofisi - XML\Döviz Ofisi - XML\obj\Debug\Döviz Ofisi - XML.pdb

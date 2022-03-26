@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\bin\Debug\Dosya işlemleri Resim üzerine yazı yazdırma.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\bin\Debug\Dosya işlemleri Resim üzerine yazı yazdırma.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\bin\Debug\Dosya işlemleri Resim üzerine yazı yazdırma.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\obj\Debug\Dosya işlemleri Resim üzerine yazı yazdırma.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\obj\Debug\Dosya_işlemleri_Resim_üzerine_yazı_yazdırma.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\obj\Debug\Dosya_işlemleri_Resim_üzerine_yazı_yazdırma.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\obj\Debug\Dosya işlemleri Resim üzerine yazı yazdırma.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\obj\Debug\Dosya işlemleri Resim üzerine yazı yazdırma.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\obj\Debug\Dosya işlemleri Resim üzerine yazı yazdırma.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Dosya işlemleri Resim üzerine yazı yazdırma\Dosya işlemleri Resim üzerine yazı yazdırma\obj\Debug\Dosya işlemleri Resim üzerine yazı yazdırma.pdb

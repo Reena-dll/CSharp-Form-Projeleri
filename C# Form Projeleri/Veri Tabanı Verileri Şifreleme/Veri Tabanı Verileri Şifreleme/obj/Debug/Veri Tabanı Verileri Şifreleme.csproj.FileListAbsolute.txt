@@ -1,0 +1,10 @@
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\bin\Debug\Veri Tabanı Verileri Şifreleme.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\bin\Debug\Veri Tabanı Verileri Şifreleme.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\bin\Debug\Veri Tabanı Verileri Şifreleme.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\obj\Debug\Veri Tabanı Verileri Şifreleme.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\obj\Debug\Veri_Tabanı_Verileri_Şifreleme.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\obj\Debug\Veri_Tabanı_Verileri_Şifreleme.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\obj\Debug\Veri Tabanı Verileri Şifreleme.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\obj\Debug\Veri Tabanı Verileri Şifreleme.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\obj\Debug\Veri Tabanı Verileri Şifreleme.exe
+D:\DERS\Görsel Programlama\C#\C# Form Projeleri\Veri Tabanı Verileri Şifreleme\Veri Tabanı Verileri Şifreleme\obj\Debug\Veri Tabanı Verileri Şifreleme.pdb

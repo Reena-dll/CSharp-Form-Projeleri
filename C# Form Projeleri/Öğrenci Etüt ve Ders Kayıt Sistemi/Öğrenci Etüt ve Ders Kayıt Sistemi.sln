@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Öğrenci Etüt ve Ders Kayıt Sistemi", "Öğrenci Etüt ve Ders Kayıt Sistemi\Öğrenci Etüt ve Ders Kayıt Sistemi.csproj", "{34CAB293-754A-4AFF-8F4A-1D8CDC3E15FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34CAB293-754A-4AFF-8F4A-1D8CDC3E15FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CAB293-754A-4AFF-8F4A-1D8CDC3E15FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CAB293-754A-4AFF-8F4A-1D8CDC3E15FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CAB293-754A-4AFF-8F4A-1D8CDC3E15FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2728EC21-B380-4A5E-81A6-120C96ED6904}
+	EndGlobalSection
+EndGlobal
